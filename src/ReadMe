@@ -1,0 +1,37 @@
+CreateUpdated.py 
+This python scripts coonects to the particular database the creates the following tables in the database and loasds the data from the XML files . 
+	tables: 
+    i)badges
+    ii)users
+    iii)posts
+    iv)votes
+    v)comments
+    vi)posthistory
+    vii)postlinks
+    viii)tags
+
+   The file accepts three arguments are input 
+	1. PAth where the XML folder is present
+	2. The databse to whihc has to be coonected. 
+	3. The table that has to be loaded with the data. 
+
+Dump Scripts Folder 
+
+It has scripts files which contains the script to execute the createUpdated.py in a batch.
+
+
+Execution:
+         python createUpdated.py <PAth to the XML file> <Databasename> <table>;
+   Eg: 
+      python createUpdated.py /mnt/data/june2016/decompressedFiles/apple.stackexchange.com apple_stackexchange b;
+bchlptuv
+
+<table> values  are as follows. 
+    b = badges
+    c = comments
+    p = posts
+    v = votes
+    h = posthistory
+    l = postlinks
+    t = tags
+	u = Users

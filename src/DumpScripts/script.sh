@@ -1,0 +1,11 @@
+python createUpdated.py /mnt/data/june2016/decompressedFiles/apple.stackexchange.com apple_stackexchange b;
+python createUpdated.py /mnt/data/june2016/decompressedFiles/arabic.stackexchange.com arabic_stackexchange b;
+python createUpdated.py /mnt/data/june2016/decompressedFiles/arduino.stackexchange.com arduino_stackexchange b;
+python createUpdated.py /mnt/data/june2016/decompressedFiles/astronomy.stackexchange.com astronomy_stackexchange b;
+python createUpdated.py /mnt/data/june2016/decompressedFiles/aviation.stackexchange.com aviation_stackexchange b;
+python createUpdated.py /mnt/data/june2016/decompressedFiles/avp.stackexchange.com avp_stackexchange b;
+python createUpdated.py /mnt/data/june2016/decompressedFiles/beer.stackexchange.com beer_stackexchange b;
+python createUpdated.py /mnt/data/june2016/decompressedFiles/bicycles.stackexchange.com bicycles_stackexchange b;
+python createUpdated.py /mnt/data/june2016/decompressedFiles/biology.stackexchange.com biology_stackexchange b;
+python createUpdated.py /mnt/data/june2016/decompressedFiles/bitcoin.stackexchange.com bitcoin_stackexchange b;
+python createUpdated.py /mnt/data/june2016/decompressedFiles/blender.stackexchange.com blender_stackexchange b;
